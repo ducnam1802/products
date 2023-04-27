@@ -1,0 +1,37 @@
+[
+  {
+    "id": "1",
+    "name": "Áo khoác nam",
+    "price": 500000,
+    "description": "Áo khoác nam đẹp",
+    "image_url": "https://salt.tikicdn.com/cache/750x750/ts/product/65/84/23/a781ca8c078f4c8ad3e5f3d90fced12f.jpg.webp"
+  },
+  {
+    "id": "2",
+    "name": "Áo khoác nam",
+    "price": 400000,
+    "description": "Áo khoác nam đẹp",
+    "image_url": "https://bansithoitrang.net/wp-content/uploads/12712-clean-z1978554782759-b2c863962b2d1c886e291dfa6e7929b0.jpg"
+  },
+  {
+    "id": "3",
+    "name": "Áo khoác nam",
+    "price": 300000,
+    "description": "Áo khoác nam đẹp",
+    "image_url": "https://cbu01.alicdn.com/img/ibank/O1CN01i25cKY1ebfSIOqdY2_!!963983890-0-cib.jpg"
+  },
+  {
+    "id": "4",
+    "name": "FORMAL WOOL BLAZER",
+    "price": 2000000,
+    "description": "Áo khoác thanh lịch cho quý ông",
+    "image_url": "https://mensaigon.vn/wp-content/uploads/2021/03/174042.jpg"
+  },
+  {
+    "id": "5",
+    "name": "ÁO MAX MARA Double-breasted wool coa",
+    "price": 8200000,
+    "description": "Tông màu đẹp, mang tính quý bà",
+    "image_url": "https://bizweb.dktcdn.net/100/106/923/products/2-e8fd18e4-79da-4096-af66-22d0b528d4df.jpg?v=1666723964323"
+  }
+]
